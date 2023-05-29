@@ -28,3 +28,5 @@ class CryptoListScreen extends StatelessWidget{
     );
   }
 }
+
+/*This code sets up the basic structure of your Flutter app, with a CryptoTrackerApp widget as the entry point and a CryptoListScreen widget as the home screen.*/
